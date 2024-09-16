@@ -12,3 +12,6 @@ Hacer un dashboard. Facture 500, gaste 200.
 Información relevante: Mejora el conocimiento de aquello sobre lo que se quiere decidir.
 Reduce la incertidumbre, y por tanto a el riesgo a la hora de decidir
 Es útil para el cometido que se pretende
+
+Características
+Relevancia, exactitud, suficiencia, confianza en la fuente, oportuna, detalle, canal de comunicación, inteligibilidad, a la persona adecuada
