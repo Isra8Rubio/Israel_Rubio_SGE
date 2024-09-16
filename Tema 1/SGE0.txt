@@ -1,0 +1,14 @@
+
+Diferencias entre datos e información: 8, 4, 7 / Estos son las notas que habrá en la clase
+
+Sectores económicos:
+Sector primario -> Obtener alimentos y materia primas del medio natural -> Agricultura, ganadería, pesca, explotación forestal
+Secundario: Transformación e las materias primas en productos elaborados -> Industria, construcción, minería, explotación de fuentes de energía
+Terciario: Prestan un servicio a la sociedad -> comercio, transporte, sanidad, educación
+Cuaternario: Información
+
+Hacer un dashboard. Facture 500, gaste 200.
+
+Información relevante: Mejora el conocimiento de aquello sobre lo que se quiere decidir.
+Reduce la incertidumbre, y por tanto a el riesgo a la hora de decidir
+Es útil para el cometido que se pretende
