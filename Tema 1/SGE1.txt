@@ -16,3 +16,29 @@ Es útil para el cometido que se pretende
 
 Características
 Relevancia, exactitud, suficiencia, confianza en la fuente, oportuna, detalle, canal de comunicación, inteligibilidad, a la persona adecuada
+
+Sistemas de información:
+Sistemas de información Transacciones -> transacciones producidas en una empresa: pagos, cobros...
+Sistemas de información de soporte para la toma de decisiones -> KPIs
+Sistemas de información Estratégico -> Ayudar directivos, realizados "ad hoc"(a medida) para dar info/indicadores estrategicos
+
+KPI -> Medir el rendimiento de algo. Ejemplo de suben reclamaciones y bajan las ventas.
+
+La tarea de diseño y desarrollo consiste en:
+Analizar un problema de administración
+Determinar los requerimientos de información por parte del usuario
+Diseñar un nuevo sistema
+Implantación
+
+Los pilares básicos del desarrollo del sistema serán: 
+tiempo 
+calidad
+presupuesto
+
+
+Sistema de información & Empresa
+Los elementos que conforman un sistema de información son:
+Información	->
+Personas	-> Actividades / técnicas de trabajo -> Objetivos de la entidad
+
+Recursos	->
