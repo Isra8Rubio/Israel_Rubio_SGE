@@ -1,0 +1,33 @@
+sas 5 áreas funcionales de todo negocio son 5:
+- Dirección
+- Administración y RR.HH.
+- Producción
+- Ventas y marketing
+- Contabilidad y finanzas
+
+CRM - Customer Relationship Management -> Gestión administración de clientes
+
+ERP - Enterprise Resource Planning -> Planificación de recursos empresariales(tendencia actual para PYMES):
+Sistemas informáticos modulares. Integra todos los procesos internos y externos.
+
+IaaS, PaaS y SaaS conviven con On-premise -> tener todos los servicios en casa
+IaaS -> El usuario contrata la infra tecnológica. Control total sobre plataforma y app. Ejem: Google Cloud
+PaaS -> El usuario mantiene control total sobre sus aplicaciones. Ejem: Amazon AWS
+SaaS -> No tiene ningún control sobre ninguna. Ejem: Gmail, Dropbox
+
+Dirección
+Finanzas y Admin
+Compras
+Ventas
+-> Ventas - Lo valora con compras - Oferta al cliente - Acepta el pedido - Se manda a envío para su preparación -
+Se busca en almacen - Se envía el pedido - Se comunica a finanzas que genere la factura - Finanzas le envía la factura al cliente y
+a compras - orden de comprar (stock) - Orden de comprar a recepciones y lo valida - distribuye al almacen - solicitud de 
+recepción a finanzas - pagar al proveedor
+
+90s - ERP -> Integra los procesos productivos:
+- Proporciona visibilidad y consistencia a los datos
+- Extiende el sistema anterior MRPII para integrar todos los procesos
+- Toma ventaja de las nuevas comunicaciones como las redes pasando a un modelo descentralizado (cliente-server)
+- Distribución, contabilidad, finanzas, RRHH, gestión de proyectos, gestión de inventario, servicio y manto y transporte.
+
+

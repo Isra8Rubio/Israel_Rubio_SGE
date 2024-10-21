@@ -1,28 +1,36 @@
-
+·Dato e información
+Dato: Representación cruda y sin procesar (En latín, lo que se da)
 Diferencias entre datos e información: 8, 4, 7 / Estos son las notas que habrá en la clase
 > información -> mejores decisiones. Información estructurada = conocimiento
 
+
+·Sectores
 Sectores económicos:
 Sector primario -> Obtener alimentos y materia primas del medio natural -> Agricultura, ganadería, pesca, explotación forestal
-Secundario: Transformación e las materias primas en productos elaborados -> Industria, construcción, minería, explotación de fuentes de energía
+Secundario: Transformación de las materias primas en productos elaborados -> Industria, construcción, minería, explotación de fuentes de energía
 Terciario: Prestan un servicio a la sociedad -> comercio, transporte, sanidad, educación
 Cuaternario: Información
 
-Hacer un dashboard. Facture 500, gaste 200.
 
-Información relevante: Mejora el conocimiento de aquello sobre lo que se quiere decidir.
-Reduce la incertidumbre, y por tanto a el riesgo a la hora de decidir
-Es útil para el cometido que se pretende
+·Qué es un sistema de información:
+Conjunto de componentes interrelacionados que recopilan, procesan, almacenan y distribuyen información para apoyar la toma de decisiones, coordinación y control dentro de una organización.
 
-Características
+·Características de información
 Relevancia, exactitud, suficiencia, confianza en la fuente, oportuna, detalle, canal de comunicación, inteligibilidad, a la persona adecuada
 
-Sistemas de información:
+·Información relevante: Mejora el conocimiento de aquello sobre lo que se quiere decidir.
+Reduce la incertidumbre, y por tanto el riesgo a la hora de decidir
+Es útil para el cometido que se pretende
+
+
+·Sistemas de información
 Sistemas de información Transacciones -> transacciones producidas en una empresa: pagos, cobros...
 Sistemas de información de soporte para la toma de decisiones -> KPIs
 Sistemas de información Estratégico -> Ayudar directivos, realizados "ad hoc"(a medida) para dar info/indicadores estrategicos
+Hacer un dashboard. Facture 500, gaste 200.
 
-KPI -> Medir el rendimiento de algo. Ejemplo de suben reclamaciones y bajan las ventas.
+·KPI (Indicador clave de rendimiento)
+Medir el rendimiento de algo. Ejemplo de suben reclamaciones y bajan las ventas.
 
 La tarea de diseño y desarrollo consiste en:
 Analizar un problema de administración
@@ -40,5 +48,4 @@ Sistema de información & Empresa
 Los elementos que conforman un sistema de información son:
 Información	->
 Personas	-> Actividades / técnicas de trabajo -> Objetivos de la entidad
-
 Recursos	->
