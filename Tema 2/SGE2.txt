@@ -1,4 +1,4 @@
-sas 5 áreas funcionales de todo negocio son 5:
+Las 5 áreas funcionales de todo negocio son:
 - Dirección
 - Administración y RR.HH.
 - Producción
@@ -9,6 +9,11 @@ CRM - Customer Relationship Management -> Gestión administración de clientes
 
 ERP - Enterprise Resource Planning -> Planificación de recursos empresariales(tendencia actual para PYMES):
 Sistemas informáticos modulares. Integra todos los procesos internos y externos.
+Cuales son los erp de pago y de sw libre
+openBravo - swl
+Odooo - swl
+Opentaps - swl
+
 
 IaaS, PaaS y SaaS conviven con On-premise -> tener todos los servicios en casa
 IaaS -> El usuario contrata la infra tecnológica. Control total sobre plataforma y app. Ejem: Google Cloud
@@ -29,5 +34,7 @@ recepción a finanzas - pagar al proveedor
 - Extiende el sistema anterior MRPII para integrar todos los procesos
 - Toma ventaja de las nuevas comunicaciones como las redes pasando a un modelo descentralizado (cliente-server)
 - Distribución, contabilidad, finanzas, RRHH, gestión de proyectos, gestión de inventario, servicio y manto y transporte.
+
+
 
 
