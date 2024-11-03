@@ -5,14 +5,19 @@ Las 5 áreas funcionales de todo negocio son:
 - Ventas y marketing
 - Contabilidad y finanzas
 
-CRM - Customer Relationship Management -> Gestión administración de clientes
+CRM - Customer Relationship Management -> Gestión administración de clientes. Incluirá todos los mecanismos que permiten
+establecer relaciones duraderas y satisfactoria con los clientes, fidelizándolos a través del marketing, venta y atención al cliente.
+Dos grupos:
+Aquellos que están integrados dentro de un sistema ERP
+Aquellos que son exclusivos
 
 ERP - Enterprise Resource Planning -> Planificación de recursos empresariales(tendencia actual para PYMES):
 Sistemas informáticos modulares. Integra todos los procesos internos y externos.
 Cuales son los erp de pago y de sw libre
+SAP - pago
+Oracle - pago
 openBravo - swl
 Odooo - swl
-Opentaps - swl
 
 
 IaaS, PaaS y SaaS conviven con On-premise -> tener todos los servicios en casa
