@@ -5,19 +5,31 @@ Las 5 áreas funcionales de todo negocio son:
 - Ventas y marketing
 - Contabilidad y finanzas
 
-CRM - Customer Relationship Management -> Gestión administración de clientes. Incluirá todos los mecanismos que permiten
-establecer relaciones duraderas y satisfactoria con los clientes, fidelizándolos a través del marketing, venta y atención al cliente.
-Dos grupos:
-Aquellos que están integrados dentro de un sistema ERP
-Aquellos que son exclusivos
+Identidad de la empresa: Misión - visión - valores
 
-ERP - Enterprise Resource Planning -> Planificación de recursos empresariales(tendencia actual para PYMES):
-Sistemas informáticos modulares. Integra todos los procesos internos y externos.
-Cuales son los erp de pago y de sw libre
-SAP - pago
-Oracle - pago
-openBravo - swl
-Odooo - swl
+CRM - Customer Relationship Management -> Gestión de relaciones con clientes para crear vínculos duraderos mediante marketing, ventas y servicio al cliente. 
+Existen dos tipos de CRM: los integrados en sistemas ERP y los independientes.
+
+ERP (Enterprise Resource Planning): Planificación de recursos empresariales para integrar procesos internos y externos en PYMES. 
+Existen opciones de pago (SAP, Oracle) y de software libre (OpenBravo, Odoo).
+
+Ventajas del ERP:
+
+	1.	Integración de procesos
+	2.	Acceso a datos en tiempo real
+	3.	Reducción de errores
+	4.	Control total
+	5.	Aumento de la productividad
+	6.	Mejor gestión de inventario y tiempo
+
+Desventajas del ERP:
+
+	1.	Costo elevado
+	2.	Proceso de instalación largo
+	3.	Dificultad de adaptación
+	4.	Resistencia al cambio
+	5.	Dependencia de un proveedor
+	6.	Posibles problemas de integración
 
 
 IaaS, PaaS y SaaS conviven con On-premise -> tener todos los servicios en casa
@@ -29,16 +41,14 @@ Dirección
 Finanzas y Admin
 Compras
 Ventas
--> Ventas - Lo valora con compras - Oferta al cliente - Acepta el pedido - Se manda a envío para su preparación -
-Se busca en almacen - Se envía el pedido - Se comunica a finanzas que genere la factura - Finanzas le envía la factura al cliente y
-a compras - orden de comprar (stock) - Orden de comprar a recepciones y lo valida - distribuye al almacen - solicitud de 
-recepción a finanzas - pagar al proveedor
 
-90s - ERP -> Integra los procesos productivos:
+-> Ventas - Lo valora con compras (stock, descatalogado) - Oferta al cliente (descuento) - Acepta el pedido - Se manda a envío para su preparación - Se busca en almacen - Se envía el pedido - Se comunica a finanzas que genere la factura - Finanzas le envía la factura al cliente y a compras - orden de comprar (stock) - Orden de comprar a recepciones y lo valida - distribuye al almacen - solicitud de recepción a finanzas - pagar al proveedor
+
+/*90s - ERP -> Integra los procesos productivos:
 - Proporciona visibilidad y consistencia a los datos
 - Extiende el sistema anterior MRPII para integrar todos los procesos
 - Toma ventaja de las nuevas comunicaciones como las redes pasando a un modelo descentralizado (cliente-server)
-- Distribución, contabilidad, finanzas, RRHH, gestión de proyectos, gestión de inventario, servicio y manto y transporte.
+- Distribución, contabilidad, finanzas, RRHH, gestión de proyectos, gestión de inventario, servicio y manto y transporte.*/
 
 
 
